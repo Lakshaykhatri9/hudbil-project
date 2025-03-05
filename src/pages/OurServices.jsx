@@ -18,7 +18,7 @@ function OurServices() {
         textColorLi="text-[#5D3A3A]"
         contentNav="Content & design focuses on creating engaging and coherent narratives, suits by visually pleasing elements to enhance user experience."
       />
-      <div className="bg-custom-ourservice-page p-3 lg:p-10">
+      <div className="bg-custom-ourservice-page bg-[#d9d9d8] p-3 lg:p-10">
         <div className="flex justify-evenly space-x-10 flex-wrap gap-10 lg:mt-20">
           <div className="lg:w-[595px] lg:h-[761px] mt-8 sm:mt-0">
             <Link to="/research">
